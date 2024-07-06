@@ -21,9 +21,9 @@ Please run `pip install -r requirements.txt` on your virtual environment to inst
 
 ## Codes
 
-* Full details of the project can be found in the Jupyter notebook, [HERE](https://github.com/sungsujaing/INSIGHT-project/blob/master/Motion_analyzer.ipynb).
-* Full details of the Flask web deployment on AWS can be found [HERE](https://github.com/sungsujaing/INSIGHT-project/tree/master/application/KYM_app_v2).
-* For testing purposes, if a YouTube video needs to be downloaded, this notebook can be used, [HERE](https://github.com/sungsujaing/INSIGHT-project/blob/master/download_video.ipynb).
+* Full details of the project can be found in the Jupyter notebook, [HERE](https://github.com/alexbrowntiger/INSIGHT-project/blob/master/Motion_analyzer.ipynb).
+* Full details of the Flask web deployment on AWS can be found [HERE](https://github.com/alexbrowntiger/INSIGHT-project/tree/master/application/KYM_app_v2).
+* For testing purposes, if a YouTube video needs to be downloaded, this notebook can be used, [HERE](https://github.com/alexbrowntiger/INSIGHT-project/blob/master/download_video.ipynb).
 
 ## Repository folder description
 
